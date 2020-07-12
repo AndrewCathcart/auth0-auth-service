@@ -34,10 +34,10 @@ export async function handler(event, context) {
 
     return {
       ...policy,
-      context: claims
+      context: claims,
     };
   } catch (error) {
     console.log(error);
     throw 'Unauthorized';
   }
-};
+}
