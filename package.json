@@ -1,7 +1,7 @@
 {
   "name": "auth0-auth-service",
   "version": "1.0.0",
-  "author": "",
+  "author": "Andrew Cathcart",
   "description": "",
   "dependencies": {
     "jsonwebtoken": "^8.1.0"
