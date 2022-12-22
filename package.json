@@ -4,7 +4,7 @@
   "author": "Andrew Cathcart",
   "description": "",
   "dependencies": {
-    "jsonwebtoken": "^8.1.0"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "serverless-bundle": "^1.3.3"
